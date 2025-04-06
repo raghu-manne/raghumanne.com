@@ -35,7 +35,7 @@ As the name reads, KEDA is a lightweight controller which autoscales the Kuberne
 
 KEDA is a graduated project under CNCF!
 Authenticates well with managed Kubernetes services like GKE (Workload Identity), EKS (Pod Identity) etc., for retrieving metrics from event sources.
-Though you can autoscale based on custom metrics with custom metrics adapter implementations of certain Kubernetes service providers; many of these providers, such as AKS and EKS, have stopped developing custom metrics adapters because projects like KEDA serve these use cases and offer more features.
+Though you can autoscale based on custom metrics with custom metrics adapter implementations of certain Kubernetes service providers; many of these providers, such as [AKS](https://github.com/Azure/azure-k8s-metrics-adapter) and [EKS](https://github.com/amazon-archives/k8s-cloudwatch-adapter), have stopped developing custom metrics adapters because projects like KEDA serve these use cases and offer more features.
 
 KEDA didn't reinvent the wheel, it just passes the events from event source to the native Kubernetes horizontal pod autoscaler (HPA). But it takes the burden of authentication to the event sources.
 
