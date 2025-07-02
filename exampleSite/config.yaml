@@ -176,8 +176,12 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: 'Kubernetes & DevOps Engineer'
+        company: Cummins Inc 
+        companyUrl: "https://www.cummins.com"
+        date: "July 2024 - Present"
       - job: "Cloud Engineer"
-        company: "Searce"
+        company: "Searce Inc"
         companyUrl: "https://searce.com"
         date: "August 2022 - July 2024"
         # featuredLink:
@@ -198,7 +202,7 @@ params:
           - Integrating external secret vaults like 1Password, HCP Vault, Cloud bases secret stores etc.,
 
       - job: "Cloud Engineer"
-        company: "D3V"
+        company: "D3V Technology Solutions"
         companyUrl: "https://d3vtech.com"
         date: "June 2021 - July 2022"
         # featuredLink:
