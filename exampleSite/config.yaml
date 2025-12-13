@@ -147,6 +147,8 @@ params:
           url: https://twitter.com/theRaghuManne
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/raghumanne
+        - icon: fab fa-reddit
+          url: https://www.reddit.com/user/raghumanne
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
@@ -377,3 +379,4 @@ params:
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
+
