@@ -160,7 +160,7 @@ params:
     title: "About Me"
     #image: "/images/me.png"
     content: |-
-      A Cloud & DevOps engineer enthusiast towards cloud native technologies. Work towards no stone is left unturned to utilize my knowledge and skill in given opportunity effectively for professional growth and to contribute in the best possible way for the betterment of the organisation and self.
+A Cloud & DevOps engineer enthusiast towards cloud native technologies.
     skills:
       enable: true
       title: "Here are a few technologies i have experience working with:"
